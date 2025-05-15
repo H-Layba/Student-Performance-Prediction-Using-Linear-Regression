@@ -118,6 +118,8 @@ This project analyzes and predicts student performance using **Linear Regression
 
 Visual insight into the influence of factors like study hours, sleep, and practice on performance
 
+**Report & Visualizations:**
+- [Student Performance Report (PDF)](report.pdf)
 
 **Comparison between:**
 
